@@ -1,2 +1,2 @@
 
-<p style="color: blue;">Test</p>
+![Red Text](https://img.shields.io/badge/Red-Text-red)
