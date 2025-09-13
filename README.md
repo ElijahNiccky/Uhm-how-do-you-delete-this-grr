@@ -1,3 +1,2 @@
-p {
-  color: blue;
-}
+
+<p style="color: blue;">Test</p>
