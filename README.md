@@ -1,2 +1,2 @@
 
-![Profile views](https://img.shields.io/badge/Red-Text-red)
+![Profile views](https://img.shields.io/badge/Profile-views-blue)
